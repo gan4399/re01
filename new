@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>甘舒源</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+   <div  style = "
+         background-color :#f1f1f1f1;
+         text-align:center;
+         padding :40px;
+    ">
+     
+      <img src="https://www.freeimg.cn/i/2023/11/13/65521fadba75b.png" alt = "博士" width="100px" height ="100px" />
+  
+
+ </div>
+
+  <div   style ="
+            background-color :#f1f1;
+         max-width:700px;
+        margin :30px auto;
+        padding 15px;
+        line-height :2.0;
+        color:red;
+  " > 
+    hello world
+    我的网站
+  <p>  hello world </p>
+  <p>         </p>
+  <p> 甘舒源 </p>
+  </div>
+   <div style = "
+         background-color :#f1f1f1f1;
+         text-align:center;
+         padding :40px;
+         font-size: 12px;      
+    ">
+   <p> 我的网站 </p>
+   
